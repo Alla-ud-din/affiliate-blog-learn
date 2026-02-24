@@ -1,0 +1,43 @@
+{
+  "title": "10 Best Ergonomic Office Chairs Under $500",
+  "date": "2024-11-15",
+  "category": "Home Office",
+  "excerpt": "After testing dozens of office chairs over six months, we narrowed it down to the absolute best ergonomic picks that won't break your budget.",
+  "coverImage": "https://images.unsplash.com/photo-1519125323398-675f0ddb6308?w=800&q=80",
+  "description": "A good office chair is one of the most important investments you can make for your health and productivity. Poor seating leads to back pain, fatigue, and reduced focus. We spent six months testing chairs across every price range to bring you only the ones worth buying.",
+  "metaDescription": "Our top picks for the best ergonomic office chairs under $500, tested and reviewed for lumbar support, adjustability, and long-term comfort.",
+  "products": [
+    {
+      "name": "Herman Miller Aeron (Remanufactured)",
+      "image": "https://images.unsplash.com/photo-1518455027359-f3f8164ba6bd?w=400&q=80",
+      "affiliateLink": "AFFILIATE_LINK",
+      "price": "$399",
+      "badge": "Best Overall"
+    },
+    {
+      "name": "Steelcase Leap V2 (Refurbished)",
+      "image": "https://images.unsplash.com/photo-1506439773649-6e0eb8cfb237?w=400&q=80",
+      "affiliateLink": "AFFILIATE_LINK",
+      "price": "$449"
+    },
+    {
+      "name": "Branch Ergonomic Chair",
+      "image": "https://images.unsplash.com/photo-1549497538-303791108f95?w=400&q=80",
+      "affiliateLink": "AFFILIATE_LINK",
+      "price": "$349",
+      "badge": "Best Value"
+    },
+    {
+      "name": "NOUHAUS Ergo3D Ergonomic Chair",
+      "image": "https://images.unsplash.com/photo-1555041469-a586c61ea9bc?w=400&q=80",
+      "affiliateLink": "AFFILIATE_LINK",
+      "price": "$289"
+    },
+    {
+      "name": "Autonomous ErgoChair Pro",
+      "image": "https://images.unsplash.com/photo-1631679706909-1844bbd07221?w=400&q=80",
+      "affiliateLink": "AFFILIATE_LINK",
+      "price": "$499"
+    }
+  ]
+}

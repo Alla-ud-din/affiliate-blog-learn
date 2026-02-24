@@ -1,0 +1,37 @@
+{
+  "title": "Best Kitchen Knives for Home Cooks in 2024",
+  "date": "2024-10-28",
+  "category": "Kitchen",
+  "excerpt": "Whether you're a weekend meal-prepper or serious home cook, these knives make every cut cleaner, faster, and more enjoyable.",
+  "coverImage": "https://images.unsplash.com/photo-1593618998160-e34014e67546?w=800&q=80",
+  "description": "A sharp, well-balanced knife is the single most impactful upgrade you can make to your kitchen. We tested 20+ knives across price points to find the ones that genuinely improve your cooking experience day to day.",
+  "metaDescription": "The best kitchen knives for home cooks — from budget chef's knives to premium Japanese blades, tested and ranked for sharpness, comfort, and durability.",
+  "products": [
+    {
+      "name": "Wüsthof Classic 8\" Chef's Knife",
+      "image": "https://images.unsplash.com/photo-1571680322279-a226e6a4cc2a?w=400&q=80",
+      "affiliateLink": "AFFILIATE_LINK",
+      "price": "$165",
+      "badge": "Top Pick"
+    },
+    {
+      "name": "Victorinox Fibrox Pro 8\" Chef's Knife",
+      "image": "https://images.unsplash.com/photo-1590502593747-42a996133562?w=400&q=80",
+      "affiliateLink": "AFFILIATE_LINK",
+      "price": "$49",
+      "badge": "Best Budget"
+    },
+    {
+      "name": "Global G-2 8\" Chef's Knife",
+      "image": "https://images.unsplash.com/photo-1628191081676-8b6ee86a0bbb?w=400&q=80",
+      "affiliateLink": "AFFILIATE_LINK",
+      "price": "$120"
+    },
+    {
+      "name": "MAC Professional 8\" Chef's Knife",
+      "image": "https://images.unsplash.com/photo-1566454419290-57a64afe30ac?w=400&q=80",
+      "affiliateLink": "AFFILIATE_LINK",
+      "price": "$145"
+    }
+  ]
+}

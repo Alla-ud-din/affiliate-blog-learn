@@ -1,0 +1,31 @@
+{
+  "title": "Top Travel Backpacks for Every Type of Traveler",
+  "date": "2024-09-10",
+  "category": "Travel",
+  "excerpt": "From carry-on weekenders to full digital nomad setups, these backpacks handle it all — organized, comfortable, and built to last.",
+  "coverImage": "https://images.unsplash.com/photo-1476514525535-07fb3b4ae5f1?w=800&q=80",
+  "description": "Choosing the right travel backpack changes everything about how you move through the world. After carrying these bags across airports, hostels, and mountain trails, we're confident in these picks for every kind of traveler.",
+  "metaDescription": "The best travel backpacks for every budget and travel style — carry-ons, laptop bags, hiking daypacks, and digital nomad rigs, all tested and ranked.",
+  "products": [
+    {
+      "name": "Osprey Farpoint 40 Travel Backpack",
+      "image": "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?w=400&q=80",
+      "affiliateLink": "AFFILIATE_LINK",
+      "price": "$180",
+      "badge": "Best Overall"
+    },
+    {
+      "name": "Tortuga Setout Laptop Backpack 45L",
+      "image": "https://images.unsplash.com/photo-1622560480605-d83c853bc5c3?w=400&q=80",
+      "affiliateLink": "AFFILIATE_LINK",
+      "price": "$239"
+    },
+    {
+      "name": "Peak Design Travel Backpack 45L",
+      "image": "https://images.unsplash.com/photo-1491553895911-0055eca6402d?w=400&q=80",
+      "affiliateLink": "AFFILIATE_LINK",
+      "price": "$299",
+      "badge": "Premium Pick"
+    }
+  ]
+}
