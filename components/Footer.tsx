@@ -3,7 +3,7 @@
 import Link from 'next/link'
 
 // ── CUSTOMIZE ─────────────────────────────────────────────────────────────────
-const SITE_NAME = 'GoodFinds'
+const SITE_NAME = 'Luxe Living Corners'
 const YEAR = new Date().getFullYear()
 // ─────────────────────────────────────────────────────────────────────────────
 
