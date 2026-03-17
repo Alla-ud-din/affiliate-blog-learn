@@ -2,10 +2,17 @@
 const nextConfig = {
   reactStrictMode: true,
   images: {
-    // Add any external image domains you'll use here
-    domains: ['images.unsplash.com', 'm.media-amazon.com'],
-    // Allows relative/local images by default
-  },
+  remotePatterns: [
+    {
+      protocol: 'https',
+      hostname: 'images.unsplash.com',
+    },
+    {
+      protocol: 'https',
+      hostname: 'm.media-amazon.com',
+    },
+  ],
+},
 }
 
 module.exports = nextConfig

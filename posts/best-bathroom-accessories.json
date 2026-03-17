@@ -1,0 +1,48 @@
+{
+  "title": "Best Bathroom Accessories to Upgrade Your Daily Routine",
+  "date": "2024-11-28",
+  "category": "Bathroom",
+  "readTime": "6 min read",
+  "excerpt": "Small swaps, big difference — these are the bathroom accessories that make your daily routine feel noticeably better.",
+  "coverImage": "https://images.unsplash.com/photo-1552321554-5fefe8c9ef14?w=1200&q=80",
+  "description": "The bathroom is where you start and end every day. Small upgrades to the accessories — the towels, the storage, the organisation — compound into a noticeably better daily experience. We focused on the items with the highest impact-to-cost ratio.",
+  "metaDescription": "The best bathroom accessories of 2025 — towels, storage, vanity organizers, and daily-use upgrades ranked by quality, design, and value.",
+  "products": [
+    {
+      "name": "Brooklinen Super-Plush Bath Towels",
+      "affiliateLink": "AFFILIATE_LINK",
+      "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=400&q=80",
+      "price": "$89",
+      "badge": "Best Towels",
+      "rating": 4.9,
+      "description": "600-gsm long-staple Turkish cotton that gets fluffier with every wash. These are the towels you use at a really good hotel — except they're in your bathroom. The weight and absorption are in a completely different league from anything at a department store."
+    },
+    {
+      "name": "Umbra Trigg Floating Shelves Set of 3",
+      "affiliateLink": "AFFILIATE_LINK",
+      "image": "https://images.unsplash.com/photo-1552321554-5fefe8c9ef14?w=400&q=80",
+      "price": "$55",
+      "badge": "Best Storage",
+      "rating": 4.6,
+      "description": "Geometric triangle shelves in copper or white that turn your bathroom wall into display storage. Strong enough to hold bottles and plants while looking like a design decision rather than a necessity."
+    },
+    {
+      "name": "simplehuman Sensor Soap Pump",
+      "affiliateLink": "AFFILIATE_LINK",
+      "image": "https://images.unsplash.com/photo-1584622781564-1d987f7333c1?w=400&q=80",
+      "price": "$50",
+      "badge": "Best Gadget",
+      "rating": 4.7,
+      "description": "Touchless is genuinely better hygiene at the sink — especially relevant after touching raw food or when you're already feeling under the weather. The simplehuman pump dispenses a perfect amount every time and looks sharp doing it."
+    },
+    {
+      "name": "YAMAZAKI Tower Bathroom Organiser",
+      "affiliateLink": "AFFILIATE_LINK",
+      "image": "https://images.unsplash.com/photo-1507473885765-e6ed057f782c?w=400&q=80",
+      "price": "$45",
+      "badge": "Best Countertop Organiser",
+      "rating": 4.5,
+      "description": "YAMAZAKI's Tower line applies the same minimal Japanese design ethos to bathroom organisation. Steel construction, available in white or black, and stackable — everything on your counter finally has a home."
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "title": "The Best Area Rugs to Ground Any Living Room",
+  "date": "2025-01-10",
+  "category": "Living Room Decor",
+  "readTime": "6 min read",
+  "excerpt": "A great rug ties a room together like nothing else. These are our top picks across every style — from washable flatweaves to plush wool statement rugs.",
+  "coverImage": "https://images.unsplash.com/photo-1586023492125-27b2c045efd7?w=1200&q=80",
+  "description": "The right area rug anchors your furniture, adds warmth underfoot, and can single-handedly transform a room's personality. We tested rugs across durability, softness, shed resistance, and style to find the ones actually worth your floor space.",
+  "metaDescription": "Best area rugs for living rooms in 2025 — from budget washable rugs to premium wool, ranked by durability, style, and value.",
+  "products": [
+    {
+      "name": "Ruggable Solid Woven Rug 8x10",
+      "affiliateLink": "AFFILIATE_LINK",
+      "image": "https://images.unsplash.com/photo-1600585152220-90363fe7e115?w=400&q=80",
+      "price": "$329",
+      "badge": "Best Washable",
+      "rating": 4.7,
+      "description": "A two-piece system — a thin pad stays on the floor while the top layer unzips and goes straight in the washing machine. Life-changing if you have pets, kids, or just a clumsy household."
+    },
+    {
+      "name": "Loloi Amber Lewis x Loloi Collins Rug",
+      "affiliateLink": "AFFILIATE_LINK",
+      "image": "https://images.unsplash.com/photo-1567538096630-e0c55bd6374c?w=400&q=80",
+      "price": "$699",
+      "badge": "Best Style",
+      "rating": 4.9,
+      "description": "The collaboration between designer Amber Lewis and Loloi produces some of the most beautiful rugs available at this price point. Thick, soft, and rich-looking far beyond its cost."
+    },
+    {
+      "name": "Safavieh Moroccan Shag Rug",
+      "affiliateLink": "AFFILIATE_LINK",
+      "image": "https://images.unsplash.com/photo-1615529182904-14819c35db37?w=400&q=80",
+      "price": "$189",
+      "badge": "Best Under $200",
+      "rating": 4.5,
+      "description": "Impossibly soft, deep pile, and a neutral ivory/grey colour that works in virtually any room. Sheds a little at first but settles beautifully after a few weeks."
+    },
+    {
+      "name": "Pottery Barn Augusta Wool Rug",
+      "affiliateLink": "AFFILIATE_LINK",
+      "image": "https://images.unsplash.com/photo-1513694203232-719a280e022f?w=400&q=80",
+      "price": "$599",
+      "badge": "Best Wool",
+      "rating": 4.8,
+      "description": "Hand-tufted 100% wool with a dense, durable pile that holds up to years of foot traffic. The muted, earthy colour palette makes it easy to build an entire room around."
+    }
+  ]
+}

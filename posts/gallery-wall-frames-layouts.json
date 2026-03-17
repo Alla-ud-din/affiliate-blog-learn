@@ -1,0 +1,48 @@
+{
+  "title": "How to Create a Gallery Wall: The Best Frames and Layouts",
+  "date": "2024-12-28",
+  "category": "Wall Art",
+  "readTime": "9 min read",
+  "excerpt": "Gallery walls look effortlessly curated when done right — and chaotic when done wrong. Here are the frames, tools, and layouts that make the difference.",
+  "coverImage": "https://images.unsplash.com/photo-1507089947368-19c1da9775ae?w=1200&q=80",
+  "description": "A gallery wall is one of the highest-impact, lowest-cost ways to transform a room. But the execution matters enormously — the wrong frames, mismatched sizing, or poor spacing can make a wall look cluttered instead of curated. We've put together the exact frames and tools that make it look intentional.",
+  "metaDescription": "The best picture frames and tools for creating a gallery wall in 2025 — layouts, tips, and product picks to make your wall look professionally curated.",
+  "products": [
+    {
+      "name": "IKEA RIBBA Frame Set (Mixed Sizes)",
+      "affiliateLink": "AFFILIATE_LINK",
+      "image": "https://images.unsplash.com/photo-1581985673473-0784a7a44e39?w=400&q=80",
+      "price": "$79",
+      "badge": "Best Value Set",
+      "rating": 4.6,
+      "description": "The RIBBA is the gallery wall standard for good reason — clean profile, deep mat, and a consistent white finish that makes mixing sizes look intentional. Buy a set and you're halfway done."
+    },
+    {
+      "name": "Umbra Trigg Wall Display Shelf",
+      "affiliateLink": "AFFILIATE_LINK",
+      "image": "https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=400&q=80",
+      "price": "$45",
+      "badge": "Best Shelf",
+      "rating": 4.5,
+      "description": "Adds dimension to a flat gallery wall by letting you lean prints and mix in small objects. The geometric copper finish adds warmth without competing with your art."
+    },
+    {
+      "name": "Command Picture Hanging Strips (Value Pack)",
+      "affiliateLink": "AFFILIATE_LINK",
+      "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=400&q=80",
+      "price": "$22",
+      "badge": "Essential Tool",
+      "rating": 4.7,
+      "description": "The only way to hang a gallery wall without drilling. Holds up to 16 lbs per pair, removes cleanly without damaging walls, and makes rearranging completely painless. Buy two packs."
+    },
+    {
+      "name": "West Elm Thin Metal Gallery Frames",
+      "affiliateLink": "AFFILIATE_LINK",
+      "image": "https://images.unsplash.com/photo-1555041469-a586c61ea9bc?w=400&q=80",
+      "price": "$129",
+      "badge": "Best Premium Frame",
+      "rating": 4.8,
+      "description": "Thin brushed brass or matte black metal frames that elevate any print to gallery status. The minimal profile lets the art breathe rather than competing with it."
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "title": "10 Best Sofas for Every Living Room Style and Budget",
+  "date": "2025-01-20",
+  "category": "Living Room Decor",
+  "readTime": "8 min read",
+  "excerpt": "From minimalist linen sectionals to deep-cushioned velvet statement pieces — these are the sofas worth investing in, tested across every style and price point.",
+  "coverImage": "https://images.unsplash.com/photo-1555041469-a586c61ea9bc?w=1200&q=80",
+  "description": "Your sofa is the anchor of your living room — the piece everything else orbits around. Get it right and your entire space clicks into place. We've researched dozens of sofas across style, comfort, durability, and value to bring you only the ones truly worth buying.",
+  "metaDescription": "The best sofas for every living room style and budget in 2025. From affordable fabric sectionals to premium leather couches, tested and ranked.",
+  "products": [
+    {
+      "name": "Article Sven Charme Tan Sofa",
+      "affiliateLink": "AFFILIATE_LINK",
+      "image": "https://images.unsplash.com/photo-1555041469-a586c61ea9bc?w=400&q=80",
+      "price": "$1,499",
+      "badge": "Best Overall",
+      "rating": 4.8,
+      "description": "Clean mid-century lines, top-grain leather, and cushions that hold their shape for years. Article's direct-to-consumer model means you get premium quality without the showroom markup."
+    },
+    {
+      "name": "IKEA KIVIK 3-Seat Sofa",
+      "affiliateLink": "AFFILIATE_LINK",
+      "image": "https://images.unsplash.com/photo-1493663284031-b7e3aefcae8e?w=400&q=80",
+      "price": "$799",
+      "badge": "Best Budget",
+      "rating": 4.4,
+      "description": "Deep seats, removable washable covers, and a silhouette that works in almost any space. The KIVIK is the rare budget sofa that doesn't look cheap — especially in the dark grey linen."
+    },
+    {
+      "name": "Pottery Barn Comfort Roll Arm Slipcovered Sofa",
+      "affiliateLink": "AFFILIATE_LINK",
+      "image": "https://images.unsplash.com/photo-1567538096630-e0c55bd6374c?w=400&q=80",
+      "price": "$2,199",
+      "badge": "Best for Families",
+      "rating": 4.7,
+      "description": "The slipcover is the genius move here — fully removable and machine washable. Perfect for homes with kids or pets. The feather-blend cushions are some of the most comfortable we've sat on."
+    },
+    {
+      "name": "West Elm Hamilton Sectional",
+      "affiliateLink": "AFFILIATE_LINK",
+      "image": "https://images.unsplash.com/photo-1506439773649-6e0eb8cfb237?w=400&q=80",
+      "price": "$3,499",
+      "badge": "Best Sectional",
+      "rating": 4.6,
+      "description": "Modular, customisable, and built with sustainably sourced hardwood frames. The Hamilton comes in 50+ fabric options and holds up remarkably well to daily use."
+    },
+    {
+      "name": "Burrow Nomad Sofa",
+      "affiliateLink": "AFFILIATE_LINK",
+      "image": "https://images.unsplash.com/photo-1540574163026-643ea20ade25?w=400&q=80",
+      "price": "$1,895",
+      "badge": "Best for Apartments",
+      "rating": 4.5,
+      "description": "Ships in a box, assembles in minutes with no tools, and has a built-in USB charger in the arm. The tool-free modular design makes it the best sofa for renters who move frequently."
+    }
+  ]
+}

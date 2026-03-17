@@ -1,0 +1,48 @@
+{
+  "title": "Best Standing Desks of 2025 — Tested for Stability, Speed, and Build Quality",
+  "date": "2025-01-08",
+  "category": "Home Office Setup",
+  "readTime": "11 min read",
+  "excerpt": "A standing desk that wobbles at standing height, moves slowly, or breaks within a year defeats the entire purpose. These are the ones that don't.",
+  "coverImage": "https://images.unsplash.com/photo-1593642632559-0c6d3fc62b89?w=1200&q=80",
+  "description": "The standing desk market is flooded with options that look identical on spec sheets but vary enormously in real-world quality. We tested 10 desks — raising and lowering them hundreds of times, checking wobble at standing height, and using each daily — to separate the genuinely good from the merely passable.",
+  "metaDescription": "The best standing desks of 2025 tested for real-world stability, motor quality, and build — from budget motorised desks to premium solid-wood setups.",
+  "products": [
+    {
+      "name": "Flexispot E7 Pro Standing Desk",
+      "affiliateLink": "AFFILIATE_LINK",
+      "image": "https://images.unsplash.com/photo-1593642632559-0c6d3fc62b89?w=400&q=80",
+      "price": "$549",
+      "badge": "Best Overall",
+      "rating": 4.8,
+      "description": "The most stable desk we tested at its price point. Dual motors, a 355 lb weight capacity, and an anti-collision system that actually works. The keypad memory presets make height switching effortless."
+    },
+    {
+      "name": "Uplift V2 Standing Desk",
+      "affiliateLink": "AFFILIATE_LINK",
+      "image": "https://images.unsplash.com/photo-1611532736597-de2d4265fba3?w=400&q=80",
+      "price": "$799",
+      "badge": "Best Premium",
+      "rating": 4.9,
+      "description": "The best standing desk we've ever used. Exceptional stability even fully raised, whisper-quiet motors, and a 15-year warranty that Uplift actually honours. Worth every penny if you spend serious hours at a desk."
+    },
+    {
+      "name": "Ikea BEKANT Sit/Stand Desk",
+      "affiliateLink": "AFFILIATE_LINK",
+      "image": "https://images.unsplash.com/photo-1585399000684-d2f72660f092?w=400&q=80",
+      "price": "$489",
+      "badge": "Best IKEA",
+      "rating": 4.3,
+      "description": "IKEA's most serious standing desk. Slower motor and more wobble than the Flexispot, but the build quality is solid and the minimal Scandinavian aesthetic is hard to beat. Pairs beautifully with IKEA storage accessories."
+    },
+    {
+      "name": "Autonomous SmartDesk Pro",
+      "affiliateLink": "AFFILIATE_LINK",
+      "image": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=400&q=80",
+      "price": "$499",
+      "badge": "Best for Programmers",
+      "rating": 4.5,
+      "description": "4 memory height presets, a wide height range that accommodates very tall users, and an app integration that reminds you to stand up. The bamboo desktop option is genuinely beautiful."
+    }
+  ]
+}

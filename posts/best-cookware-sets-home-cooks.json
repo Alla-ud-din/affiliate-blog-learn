@@ -1,0 +1,57 @@
+{
+  "title": "The Best Cookware Sets for Every Type of Home Cook",
+  "date": "2025-01-12",
+  "category": "Kitchen & Dining",
+  "readTime": "10 min read",
+  "excerpt": "We tested 14 cookware sets across stainless steel, cast iron, ceramic, and nonstick to find the ones that genuinely earn their cabinet space.",
+  "coverImage": "https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=1200&q=80",
+  "description": "A great cookware set lasts decades and makes every meal easier. A bad one warps, sticks, and ends up pushed to the back of the cabinet. We spent four months cooking with 14 different sets to find exactly which ones are worth the investment at every price point.",
+  "metaDescription": "Best cookware sets of 2025 tested by real home cooks — stainless steel, nonstick, cast iron, and ceramic, ranked by performance, durability, and value.",
+  "products": [
+    {
+      "name": "All-Clad D3 Stainless 10-Piece Set",
+      "affiliateLink": "AFFILIATE_LINK",
+      "image": "https://images.unsplash.com/photo-1584568694244-14fbdf83bd30?w=400&q=80",
+      "price": "$699",
+      "badge": "Best Overall",
+      "rating": 4.9,
+      "description": "The benchmark stainless steel cookware set. Three-ply bonded construction heats evenly with no hot spots, works on all cooktops including induction, and is virtually indestructible. This is the last set you'll ever buy."
+    },
+    {
+      "name": "Caraway Nonstick Ceramic Cookware Set",
+      "affiliateLink": "AFFILIATE_LINK",
+      "image": "https://images.unsplash.com/photo-1556910638-b0b51c5a4adf?w=400&q=80",
+      "price": "$395",
+      "badge": "Best Nonstick",
+      "rating": 4.7,
+      "description": "PTFE-free ceramic coating that releases eggs and fish as well as traditional nonstick, without the chemical concerns. The colour options are genuinely beautiful and the included magnetic lid organiser is a stroke of genius."
+    },
+    {
+      "name": "Lodge Cast Iron 5-Piece Set",
+      "affiliateLink": "AFFILIATE_LINK",
+      "image": "https://images.unsplash.com/photo-1544148103-0773bf10d330?w=400&q=80",
+      "price": "$199",
+      "badge": "Best Cast Iron",
+      "rating": 4.8,
+      "description": "Lodge has been making cast iron in Tennessee since 1896, and this set represents everything they've learned. Pre-seasoned, oven-safe to 500°F, and will genuinely outlast you if maintained properly."
+    },
+    {
+      "name": "Cuisinart MCP-12N Multiclad Pro 12-Piece",
+      "affiliateLink": "AFFILIATE_LINK",
+      "image": "https://images.unsplash.com/photo-1585515320310-259814833e62?w=400&q=80",
+      "price": "$249",
+      "badge": "Best Under $300",
+      "rating": 4.6,
+      "description": "All-Clad performance at a third of the price. Triple-ply stainless construction, tight-fitting lids, and oven-safe to 550°F. The best cookware set available under $300, full stop."
+    },
+    {
+      "name": "Always Pan 2.0 by Our Place",
+      "affiliateLink": "AFFILIATE_LINK",
+      "image": "https://images.unsplash.com/photo-1590794056226-79ef3a8147e1?w=400&q=80",
+      "price": "$150",
+      "badge": "Best Single Pan",
+      "rating": 4.5,
+      "description": "Replaces 8 pieces of cookware in one. Braises, sears, steams, strains, and serves — with a ceramic nonstick coating and a built-in spatula rest that sounds gimmicky until you use it every single day."
+    }
+  ]
+}

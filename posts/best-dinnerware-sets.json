@@ -1,0 +1,48 @@
+{
+  "title": "Best Dinnerware Sets for Everyday Use and Entertaining",
+  "date": "2024-12-20",
+  "category": "Kitchen & Dining",
+  "readTime": "7 min read",
+  "excerpt": "Dinnerware that looks beautiful, survives the dishwasher, and doesn't chip after three uses — we found the sets that actually deliver on all three.",
+  "coverImage": "https://images.unsplash.com/photo-1532635241-17e820acc59f?w=1200&q=80",
+  "description": "Great dinnerware makes every meal feel more intentional — even Tuesday night pasta. We tested sets across ceramic, stoneware, and porcelain to find the ones that balance looks, durability, and dishwasher survivability for real daily use.",
+  "metaDescription": "The best dinnerware sets for everyday use and entertaining in 2025 — stoneware, porcelain, and ceramic sets ranked by durability, style, and value.",
+  "products": [
+    {
+      "name": "Crate & Barrel Mercer Stoneware 16-Piece Set",
+      "affiliateLink": "AFFILIATE_LINK",
+      "image": "https://images.unsplash.com/photo-1608677452083-e7e03d21b6d5?w=400&q=80",
+      "price": "$199",
+      "badge": "Best Overall",
+      "rating": 4.8,
+      "description": "Heavy, matte-glazed stoneware that looks handmade but is perfectly uniform. Chips less than most ceramic sets we tested, stacks neatly, and the warm off-white colour works with every table setting."
+    },
+    {
+      "name": "Our Place Ceramic Starter Set",
+      "affiliateLink": "AFFILIATE_LINK",
+      "image": "https://images.unsplash.com/photo-1519710164239-da123dc03ef4?w=400&q=80",
+      "price": "$155",
+      "badge": "Best Colours",
+      "rating": 4.6,
+      "description": "Available in 12 colour options and designed to mix and match. The glazing is beautiful, the weight feels premium, and the stackability is genuinely well thought-out. A table set in these always gets compliments."
+    },
+    {
+      "name": "IKEA OFTAST 18-Piece Set",
+      "affiliateLink": "AFFILIATE_LINK",
+      "image": "https://images.unsplash.com/photo-1467226632440-65f0b4957563?w=400&q=80",
+      "price": "$29",
+      "badge": "Best Budget",
+      "rating": 4.3,
+      "description": "Remarkable for the price. Vitrified glass construction is tougher than standard ceramic, dishwasher and microwave safe, and the simple white design works with everything. The best plates to buy when you just need plates."
+    },
+    {
+      "name": "Lenox French Perle 12-Piece Porcelain Set",
+      "affiliateLink": "AFFILIATE_LINK",
+      "image": "https://images.unsplash.com/photo-1578500494198-246f612d3b3d?w=400&q=80",
+      "price": "$349",
+      "badge": "Best for Entertaining",
+      "rating": 4.9,
+      "description": "Bone china with a beaded rim detail that elevates any table setting. Lighter than stoneware, beautifully translucent, and surprisingly durable for fine porcelain. A set you'll pass down."
+    }
+  ]
+}

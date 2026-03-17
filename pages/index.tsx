@@ -17,6 +17,7 @@ export default function Home({ allPostsData }) {
       <SEO
         title="Home"
         description={SITE_TAGLINE}
+        image="/og-image.jpg"
       />
 
       {/* Hero */}

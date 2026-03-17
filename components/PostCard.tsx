@@ -5,6 +5,9 @@ import Image from 'next/image'
 
 export default function PostCard({ post }) {
   const { slug, title, excerpt, coverImage, category, date } = post
+  //   // Add this to log the destructured values
+  //   // Go to the browser console to see the output when you load the homepage
+  // console.log('Post data:', { slug, title, excerpt, coverImage, category, date })
 
   return (
     <article className="card group">

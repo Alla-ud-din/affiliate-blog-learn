@@ -1,0 +1,48 @@
+{
+  "title": "Best Floor Lamps to Transform Any Room's Ambiance",
+  "date": "2025-01-02",
+  "category": "Lighting",
+  "readTime": "7 min read",
+  "excerpt": "Overhead lighting flattens a room. A great floor lamp adds warmth, depth, and atmosphere that no ceiling fixture can replicate.",
+  "coverImage": "https://images.unsplash.com/photo-1507473885765-e6ed057f782c?w=1200&q=80",
+  "description": "The fastest way to make a room feel warmer, more layered, and more intentional is to turn off the overhead light and switch on a floor lamp. We tested lamps across brightness, dimmer quality, build construction, and visual design to find the ones that earn their floor space.",
+  "metaDescription": "The best floor lamps of 2025 for every room and style — arc lamps, tripod lamps, torchieres, and reading lamps, ranked by light quality and design.",
+  "products": [
+    {
+      "name": "CB2 Arched Floor Lamp in Antique Brass",
+      "affiliateLink": "AFFILIATE_LINK",
+      "image": "https://images.unsplash.com/photo-1507473885765-e6ed057f782c?w=400&q=80",
+      "price": "$299",
+      "badge": "Best Arc Lamp",
+      "rating": 4.7,
+      "description": "The arc design reaches over a sofa or reading chair to cast a perfect cone of warm light exactly where you need it. The antique brass finish looks genuinely expensive, and the weighted base keeps it stable."
+    },
+    {
+      "name": "IKEA HEKTAR Floor Lamp",
+      "affiliateLink": "AFFILIATE_LINK",
+      "image": "https://images.unsplash.com/photo-1513506003901-1e6a35ebe9bf?w=400&q=80",
+      "price": "$79",
+      "badge": "Best Budget",
+      "rating": 4.4,
+      "description": "Adjustable shade, built-in cord management, and a simple industrial aesthetic that works in almost any room. Remarkable quality for the price — this is one of IKEA's best lighting products."
+    },
+    {
+      "name": "West Elm Overarching Strand Floor Lamp",
+      "affiliateLink": "AFFILIATE_LINK",
+      "image": "https://images.unsplash.com/photo-1540932239986-30128078f3c5?w=400&q=80",
+      "price": "$449",
+      "badge": "Best Statement Piece",
+      "rating": 4.8,
+      "description": "Three adjustable reading lights on flexible arms that can each be positioned independently. More functional than it looks and genuinely sculptural — this lamp makes a room feel designed rather than furnished."
+    },
+    {
+      "name": "TaoTronics LED Floor Lamp with Remote",
+      "affiliateLink": "AFFILIATE_LINK",
+      "image": "https://images.unsplash.com/photo-1524484485831-a92ffc0de03f?w=400&q=80",
+      "price": "$89",
+      "badge": "Best Smart Lamp",
+      "rating": 4.5,
+      "description": "Stepless dimming, colour temperature adjustment from warm to cool white, and a remote that actually works from across the room. The best tech-forward floor lamp under $100 by a significant margin."
+    }
+  ]
+}

@@ -28,7 +28,7 @@ export function getSortedPostsData() {
       return { slug, ...data }
     })
 
-  return allPostsData.sort((a, b) => new Date(b.date) - new Date(a.date))
+  return allPostsData.sort((a, b) => new Date(b.date).getTime() - new Date(a.date).getTime())
 }
 
 export function getAllPostSlugs() {

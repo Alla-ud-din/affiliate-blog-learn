@@ -4,9 +4,10 @@
 // ─────────────────────────────────────────────────────────────────────────────
 
 import Link from 'next/link'
+import Image from 'next/image'
 import { useState } from 'react'
 
-const SITE_NAME = 'GoodFinds'   // ← Your blog name
+const SITE_NAME = 'Luxe Living Corners | Home Decor Ideas'   // ← Your blog name
 
 const NAV_LINKS = [
   { label: 'Home',       href: '/' },
@@ -24,6 +25,13 @@ export default function Navbar() {
 
           {/* Logo */}
           <Link href="/" className="flex items-center gap-2">
+            <Image
+              src="/Luxe living logo.png"
+              alt="Luxe Living Corners Logo"
+              width={32}
+              height={32}
+              className="rounded-full object-cover"
+            />
             <span className="font-display text-xl font-bold text-neutral-900 tracking-tight">
               {SITE_NAME}
             </span>

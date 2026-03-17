@@ -1,0 +1,48 @@
+{
+  "title": "Best Nursery Furniture to Build a Safe, Beautiful Baby Room",
+  "date": "2024-11-15",
+  "category": "Kids & Nursery",
+  "readTime": "8 min read",
+  "excerpt": "Non-toxic, durable, and designed to grow with your child — these are the nursery pieces worth investing in before your baby arrives.",
+  "coverImage": "https://images.unsplash.com/photo-1586105251261-72a756497a11?w=1200&q=80",
+  "description": "Nursery furniture needs to do a lot: be safe enough for a newborn, durable enough for a toddler, and pleasant enough that you don't mind staring at it through every night feed. We focused on non-toxic materials, conversion capability, and the kind of build quality that survives the first three years of a child's life.",
+  "metaDescription": "The best nursery furniture of 2025 — cribs, dressers, gliders, and changing tables that are safe, durable, and genuinely beautiful.",
+  "products": [
+    {
+      "name": "SNOO Smart Sleeper Bassinet",
+      "affiliateLink": "AFFILIATE_LINK",
+      "image": "https://images.unsplash.com/photo-1586105251261-72a756497a11?w=400&q=80",
+      "price": "$1,695",
+      "badge": "Best Bassinet",
+      "rating": 4.8,
+      "description": "Automatically responds to your baby's cries with gentle rocking and white noise calibrated to the level of fussiness. Expensive, but parents consistently report it buys them 1-2 extra hours of sleep per night in the newborn phase."
+    },
+    {
+      "name": "Babyletto Hudson 3-in-1 Convertible Crib",
+      "affiliateLink": "AFFILIATE_LINK",
+      "image": "https://images.unsplash.com/photo-1522771930-78848d9293e8?w=400&q=80",
+      "price": "$499",
+      "badge": "Best Crib",
+      "rating": 4.9,
+      "description": "Converts from crib to toddler bed to daybed — extending the life of the purchase through age 5+. Made from New Zealand pine with non-toxic finish, GREENGUARD Gold certified, and genuinely beautiful in any nursery."
+    },
+    {
+      "name": "IKEA HEMNES 6-Drawer Dresser (Nursery Edition)",
+      "affiliateLink": "AFFILIATE_LINK",
+      "image": "https://images.unsplash.com/photo-1555041469-a586c61ea9bc?w=400&q=80",
+      "price": "$249",
+      "badge": "Best Dresser",
+      "rating": 4.6,
+      "description": "Solid wood with a top surface perfectly sized for a changing pad. Grows from nursery dresser to kids' dresser to adult dresser without looking out of place at any stage. Anti-tip hardware included."
+    },
+    {
+      "name": "Pottery Barn Kids Comfort Glider",
+      "affiliateLink": "AFFILIATE_LINK",
+      "image": "https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=400&q=80",
+      "price": "$699",
+      "badge": "Best Glider",
+      "rating": 4.7,
+      "description": "The chair you'll spend hundreds of hours in during the first year of your child's life. Deep cushioned seat, smooth glide mechanism, and fabric options that work beyond the nursery once your child graduates to a bed."
+    }
+  ]
+}

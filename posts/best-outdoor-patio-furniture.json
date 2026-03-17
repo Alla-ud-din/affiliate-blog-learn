@@ -1,0 +1,48 @@
+{
+  "title": "Best Outdoor Patio Furniture Sets for Every Size Outdoor Space",
+  "date": "2024-12-10",
+  "category": "Outdoor & Garden",
+  "readTime": "9 min read",
+  "excerpt": "Patio furniture that survives rain, UV, and years of use without fading, rusting, or becoming an eyesore — we found the sets actually built for the outdoors.",
+  "coverImage": "https://images.unsplash.com/photo-1600210492493-0946911123ea?w=1200&q=80",
+  "description": "Outdoor furniture takes a beating — sun, rain, cold, and constant use. Most cheap sets look great in a showroom and terrible after one summer. We researched and tested sets across material types, focusing on weather resistance, comfort, and how well they actually hold up after the first season.",
+  "metaDescription": "Best outdoor patio furniture sets of 2025 for small balconies to large patios — weather-resistant, comfortable, and stylish picks at every price point.",
+  "products": [
+    {
+      "name": "Outer Teak Outdoor Sofa Set",
+      "affiliateLink": "AFFILIATE_LINK",
+      "image": "https://images.unsplash.com/photo-1600210492493-0946911123ea?w=400&q=80",
+      "price": "$2,999",
+      "badge": "Best Premium",
+      "rating": 4.9,
+      "description": "Grade-A teak that silvens beautifully with age, cushions with a built-in cover system that actually gets used, and a company obsessively focused on outdoor quality. This furniture gets better looking every year."
+    },
+    {
+      "name": "Polywood Nautical 3-Piece Bistro Set",
+      "affiliateLink": "AFFILIATE_LINK",
+      "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=400&q=80",
+      "price": "$699",
+      "badge": "Best for Small Spaces",
+      "rating": 4.8,
+      "description": "Made from recycled plastic lumber that looks like painted wood, never needs sealing, and won't rot, splinter, or fade. Perfect for a small balcony or patio. Comes with a 20-year warranty."
+    },
+    {
+      "name": "Hampton Bay Wicker 7-Piece Sectional",
+      "affiliateLink": "AFFILIATE_LINK",
+      "image": "https://images.unsplash.com/photo-1533090161767-e6ffed986c88?w=400&q=80",
+      "price": "$1,299",
+      "badge": "Best Value Set",
+      "rating": 4.5,
+      "description": "All-weather wicker over a powder-coated steel frame with thick cushions included. The best large outdoor sectional under $1,500 — modular configuration means it fits almost any patio layout."
+    },
+    {
+      "name": "Article Cana Outdoor Dining Set",
+      "affiliateLink": "AFFILIATE_LINK",
+      "image": "https://images.unsplash.com/photo-1600566753190-17f0baa2a6c3?w=400&q=80",
+      "price": "$1,199",
+      "badge": "Best Dining Set",
+      "rating": 4.7,
+      "description": "Powder-coated aluminium frame that won't rust, UV-resistant cushions, and a design that looks genuinely contemporary rather than generically 'outdoor'. Seats 6 comfortably with room for conversation."
+    }
+  ]
+}
